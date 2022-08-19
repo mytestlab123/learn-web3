@@ -2,8 +2,13 @@
 sidebar_position: 5
 ---
 
-# Run first web3 program
+# getBalance program
 
+:::info Setup environment
+
+Setup environment using [local](../setup/setup-web3js.md) or [remote](codespaces.md) system.
+
+:::
 ### Create app.js with following code
 
 ```js
